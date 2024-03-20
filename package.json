@@ -1,0 +1,29 @@
+{
+  "name": "mystic-meadow-maps",
+  "version": "1.0.2",
+  "description": "A minimalist library for integrating maps into web projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cothorax/mystic-meadow-maps"
+  },
+  "keywords": [
+    "maps",
+    "web",
+    "location",
+    "minimalist",
+    "mapping"
+  ],
+  "author": "Yuly Ortin",
+  "license": "MIT",
+  "dependencies": {
+    "leaflet": "^1.7.1",
+    "axios": "^0.21.1",
+    "geolib": "^3.3.1",
+    "query-string": "^7.0.0",
+    "lodash.debounce": "^4.0.8"
+  }
+}
